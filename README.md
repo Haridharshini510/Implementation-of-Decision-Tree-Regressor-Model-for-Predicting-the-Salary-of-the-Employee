@@ -58,22 +58,29 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
+
 ## Data head:
+
 <img width="354" height="273" alt="Screenshot 2025-10-13 094230" src="https://github.com/user-attachments/assets/7830f71f-9ee3-4a78-90aa-22104a237c0c" />
 
 ## Data info:
+
 <img width="748" height="289" alt="Screenshot 2025-10-13 094247" src="https://github.com/user-attachments/assets/7c748211-111a-43f2-a39a-f79109cff507" />
 
 ## isnull() sum()
+
 <img width="199" height="116" alt="Screenshot 2025-10-13 094304" src="https://github.com/user-attachments/assets/dc0abd48-88c5-4242-b107-460eae300744" />
 
 ## Mean squared error:
+
 <img width="237" height="51" alt="Screenshot 2025-10-13 094341" src="https://github.com/user-attachments/assets/033af8db-109b-48a1-ae63-1f1cb0a9cd9e" />
 
 ## r2 value:
+
 <img width="223" height="43" alt="Screenshot 2025-10-13 094422" src="https://github.com/user-attachments/assets/1b31cd09-25d3-495c-afad-779f84d19b2d" />
 
 ## data prediction
+
 <img width="213" height="42" alt="Screenshot 2025-10-13 094506" src="https://github.com/user-attachments/assets/0638e79b-0810-4e7f-b744-f9d92845024e" />
 
 
